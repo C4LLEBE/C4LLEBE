@@ -2,7 +2,7 @@
 
 - 👋 Olá, meu nome é @C4LLEBE
 - 👍 Meu e-mail de contato é calebe.ferreira@escola.pr.gov.br
-- 🌱 Eu estou aprendendo a programar a linguagem de HTML e Scratch
+- 🌱 Eu estou aprendendo a programar a linguagem de HTML.
 
 
 <!---
